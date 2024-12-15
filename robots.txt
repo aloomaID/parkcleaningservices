@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://parkcleaningservices.xyz/sitemap_index.xml
